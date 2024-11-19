@@ -2,6 +2,7 @@
 
 This repository is the official implementation of our paper "Cost-Sensitive Learning for Long-Tailed Temporal Action Segmentation" with model MSTCN on Breakfast dataset.
 
+Please check our [project page](https://pangzhan27.github.io/csl-tas.github.io/) for more information.
 ## Dataset
 The dataset used in our paper is open-source data. It can be downloaded from the references in the main paper. 
 
